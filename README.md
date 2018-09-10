@@ -11,6 +11,9 @@ Intro info
 This is deployment plan
 More deployment steps
 
+## Technical Plan
+
+
 ## Purpose
 
 Sample website with plenty of files for demos
